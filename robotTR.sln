@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "robotTR", "robotTR\robotTR.csproj", "{497D0E9C-E5CA-4F14-BC37-02B4BF75C540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "robotTR.Tests", "robotTR.Tests\robotTR.Tests.csproj", "{C70BEE0B-867B-4518-A510-EA5F15C61870}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{497D0E9C-E5CA-4F14-BC37-02B4BF75C540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497D0E9C-E5CA-4F14-BC37-02B4BF75C540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497D0E9C-E5CA-4F14-BC37-02B4BF75C540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497D0E9C-E5CA-4F14-BC37-02B4BF75C540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C70BEE0B-867B-4518-A510-EA5F15C61870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70BEE0B-867B-4518-A510-EA5F15C61870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70BEE0B-867B-4518-A510-EA5F15C61870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70BEE0B-867B-4518-A510-EA5F15C61870}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
